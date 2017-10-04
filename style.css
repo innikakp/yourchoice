@@ -1,0 +1,29 @@
+.ui.borderless.topmenu.menu {
+  background-color: #222;
+  color: #a9a9a9;
+  box-shadow: none;
+  border: none;
+}
+
+.footer-background {
+  background-color: #292929;
+  color: grey;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h5 {
+  color: whitesmoke;
+}
+
+.ui.label {
+  background-color: #444;
+}
+
+.angle.right.icon {
+  color: whitesmoke;
+}
+
+h3 {
+  color: white;
+}
